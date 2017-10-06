@@ -1,8 +1,8 @@
 export const FIREBASE_CREDENTIALS = {
-    apiKey: "AIzaSyALHRuzWz7Xw6RVUZFH92fI7bxUqKg4Sfw",
-    authDomain: "shopingfirebase.firebaseapp.com",
-    databaseURL: "https://shopingfirebase.firebaseio.com",
-    projectId: "shopingfirebase",
-    storageBucket: "shopingfirebase.appspot.com",
-    messagingSenderId: "728051418524"
+    apiKey: '<your-key>',
+    authDomain: '<your-project-authdomain>',
+    databaseURL: '<your-database-URL>',
+    projectId: '<your-project-id>',
+    storageBucket: '<your-storage-bucket>',
+    messagingSenderId: '<your-messaging-sender-id>'
 }
